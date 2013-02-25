@@ -9,5 +9,9 @@ public class gitClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void escribir(String texto){
+		System.out.println(texto);
+	}
 
 }
