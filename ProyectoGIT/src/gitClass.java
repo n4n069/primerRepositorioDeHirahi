@@ -17,5 +17,7 @@ public class gitClass {
 	public int sumar(int a, int b){
 		return a+b;
 	}
+	
+	
 
 }
