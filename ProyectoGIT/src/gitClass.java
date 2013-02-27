@@ -9,5 +9,9 @@ public class gitClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public int sumar(int a, int b){
+		return a+b;
+	}
 
 }
