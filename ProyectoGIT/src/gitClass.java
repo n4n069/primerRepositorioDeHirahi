@@ -13,5 +13,9 @@ public class gitClass {
 	public void escribir(String texto){
 		System.out.println(texto);
 	}
+	
+	public int sumar(int a, int b){
+		return a+b;
+	}
 
 }
