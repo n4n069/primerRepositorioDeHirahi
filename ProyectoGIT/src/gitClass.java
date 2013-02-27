@@ -9,7 +9,7 @@ public class gitClass {
 		// TODO Auto-generated method stub
 
 	}
-	
+	//ola k ase
 	public void escribir(String texto){
 		System.out.println(texto);
 	}
