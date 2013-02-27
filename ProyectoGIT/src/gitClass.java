@@ -20,4 +20,7 @@ public class gitClass {
 		System.out.println(texto);
 	}
 	//otra funcion
+	public int restar(int a, int b){
+		return a+b;
+	}
 }
