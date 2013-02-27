@@ -15,5 +15,9 @@ public class gitClass {
 	}
 	
 	//ola k ase
-
+	
+	public void escribir(String texto){
+		System.out.println(texto);
+	}
+	//otra funcion
 }
