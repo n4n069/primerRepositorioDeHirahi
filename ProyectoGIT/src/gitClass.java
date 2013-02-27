@@ -14,10 +14,9 @@ public class gitClass {
 		System.out.println(texto);
 	}
 	
+	//funcion sumar
 	public int sumar(int a, int b){
 		return a+b;
 	}
-	
-	
 
 }
