@@ -23,4 +23,5 @@ public class gitClass {
 	public int restar(int a, int b){
 		return a+b;
 	}
+	//ta kuá
 }
